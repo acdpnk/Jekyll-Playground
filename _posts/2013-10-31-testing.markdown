@@ -1,0 +1,12 @@
+---
+layout: post
+date: 2013-10-31
+title: "testing"
+categories: foo bar
+---
+
+Testing[^test]
+
+foobar
+
+[^test]: http://test.org
